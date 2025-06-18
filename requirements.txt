@@ -1,0 +1,71 @@
+# Core Dependencies
+typer
+llama-cpp-python
+rich
+pygments
+pydantic
+click
+
+# Web UI and API
+fastapi
+uvicorn[standard]
+websockets
+jinja2
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+
+# Advanced AI and ML
+transformers
+torch
+numpy
+sentence-transformers
+faiss-cpu
+tiktoken
+
+# Developer Tools
+gitpython
+black
+isort
+pylint
+mypy
+pytest
+coverage
+
+# File Processing and Analysis
+tree-sitter
+tree-sitter-python
+tree-sitter-javascript
+tree-sitter-typescript
+tree-sitter-java
+tree-sitter-cpp
+watchdog
+aiofiles
+
+# Database and Storage
+sqlalchemy
+alembic
+sqlite3
+redis
+chromadb
+
+# Utilities
+requests
+httpx
+aiohttp
+python-dotenv
+pyyaml
+toml
+jsonschema
+markdown
+mermaid
+
+# Voice and Audio (optional)
+# speechrecognition
+# pyaudio
+# pyttsx3
+
+# Performance and Monitoring
+psutil
+memory-profiler
+py-spy
